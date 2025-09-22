@@ -21,13 +21,12 @@ Easily filter elements by their categories (e.g., metals, non-metals, noble gase
 Works smoothly across desktops, tablets, and mobile devices.
 
 ### 🛠️ Tech Stack
-Frontend: React.js
+- Frontend: React.js
+- Styling: Tailwind CSS + Custom CSS
+- Icon : Canva
+- Data: JSON (containing full periodic table, isotopes, and isobars info)
 
-## Styling: Tailwind CSS + Custom CSS
-
-Icons: React Icons
-
-Data: JSON (containing full periodic table, isotopes, and isobars info)
+![Alt text](./public/logo.png)
 
 ### 🚀 Getting Started
 
