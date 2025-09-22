@@ -1,0 +1,1362 @@
+{
+  "groups": [
+    {
+      "category": "Nonmetal",
+      "color": "#6FD1F5",
+      "elements": [
+        {
+          "atomicNumber": 1,
+          "symbol": "H",
+          "name": "Hydrogen",
+          "atomicMass": 1.008,
+          "protons": 1,
+          "electrons": 1,
+          "neutrons": 0,
+          "orbits": 1,
+          "color": "#6FD1F5"
+        },
+        {
+          "atomicNumber": 6,
+          "symbol": "C",
+          "name": "Carbon",
+          "atomicMass": 12.011,
+          "protons": 6,
+          "electrons": 6,
+          "neutrons": 6,
+          "orbits": 2,
+          "color": "#6FD1F5"
+        },
+        {
+          "atomicNumber": 7,
+          "symbol": "N",
+          "name": "Nitrogen",
+          "atomicMass": 14.007,
+          "protons": 7,
+          "electrons": 7,
+          "neutrons": 7,
+          "orbits": 2,
+          "color": "#6FD1F5"
+        },
+        {
+          "atomicNumber": 8,
+          "symbol": "O",
+          "name": "Oxygen",
+          "atomicMass": 15.999,
+          "protons": 8,
+          "electrons": 8,
+          "neutrons": 8,
+          "orbits": 2,
+          "color": "#6FD1F5"
+        },
+        {
+          "atomicNumber": 15,
+          "symbol": "P",
+          "name": "Phosphorus",
+          "atomicMass": 30.974,
+          "protons": 15,
+          "electrons": 15,
+          "neutrons": 16,
+          "orbits": 3,
+          "color": "#6FD1F5"
+        },
+        {
+          "atomicNumber": 16,
+          "symbol": "S",
+          "name": "Sulfur",
+          "atomicMass": 32.06,
+          "protons": 16,
+          "electrons": 16,
+          "neutrons": 16,
+          "orbits": 3,
+          "color": "#6FD1F5"
+        },
+        {
+          "atomicNumber": 34,
+          "symbol": "Se",
+          "name": "Selenium",
+          "atomicMass": 78.971,
+          "protons": 34,
+          "electrons": 34,
+          "neutrons": 45,
+          "orbits": 4,
+          "color": "#6FD1F5"
+        }
+      ]
+    },
+    {
+      "category": "Noble Gas",
+      "color": "#FFD700",
+      "elements": [
+        {
+          "atomicNumber": 2,
+          "symbol": "He",
+          "name": "Helium",
+          "atomicMass": 4.0026,
+          "protons": 2,
+          "electrons": 2,
+          "neutrons": 2,
+          "orbits": 1,
+          "color": "#FFD700"
+        },
+        {
+          "atomicNumber": 10,
+          "symbol": "Ne",
+          "name": "Neon",
+          "atomicMass": 20.18,
+          "protons": 10,
+          "electrons": 10,
+          "neutrons": 10,
+          "orbits": 2,
+          "color": "#FFD700"
+        },
+        {
+          "atomicNumber": 18,
+          "symbol": "Ar",
+          "name": "Argon",
+          "atomicMass": 39.948,
+          "protons": 18,
+          "electrons": 18,
+          "neutrons": 22,
+          "orbits": 3,
+          "color": "#FFD700"
+        },
+        {
+          "atomicNumber": 36,
+          "symbol": "Kr",
+          "name": "Krypton",
+          "atomicMass": 83.798,
+          "protons": 36,
+          "electrons": 36,
+          "neutrons": 48,
+          "orbits": 4,
+          "color": "#FFD700"
+        },
+        {
+          "atomicNumber": 54,
+          "symbol": "Xe",
+          "name": "Xenon",
+          "atomicMass": 131.29,
+          "protons": 54,
+          "electrons": 54,
+          "neutrons": 77,
+          "orbits": 5,
+          "color": "#FFD700"
+        },
+        {
+          "atomicNumber": 86,
+          "symbol": "Rn",
+          "name": "Radon",
+          "atomicMass": 222,
+          "protons": 86,
+          "electrons": 86,
+          "neutrons": 136,
+          "orbits": 6,
+          "color": "#FFD700"
+        },
+        {
+          "atomicNumber": 118,
+          "symbol": "Og",
+          "name": "Oganesson",
+          "atomicMass": 294,
+          "protons": 118,
+          "electrons": 118,
+          "neutrons": 176,
+          "orbits": 7,
+          "color": "#FFD700"
+        }
+      ]
+    },
+    {
+      "category": "Alkali Metal",
+      "color": "#FF6666",
+      "elements": [
+        {
+          "atomicNumber": 3,
+          "symbol": "Li",
+          "name": "Lithium",
+          "atomicMass": 6.94,
+          "protons": 3,
+          "electrons": 3,
+          "neutrons": 4,
+          "orbits": 2,
+          "color": "#FF6666"
+        },
+        {
+          "atomicNumber": 11,
+          "symbol": "Na",
+          "name": "Sodium",
+          "atomicMass": 22.99,
+          "protons": 11,
+          "electrons": 11,
+          "neutrons": 12,
+          "orbits": 3,
+          "color": "#FF6666"
+        },
+        {
+          "atomicNumber": 19,
+          "symbol": "K",
+          "name": "Potassium",
+          "atomicMass": 39.098,
+          "protons": 19,
+          "electrons": 19,
+          "neutrons": 20,
+          "orbits": 4,
+          "color": "#FF6666"
+        },
+        {
+          "atomicNumber": 37,
+          "symbol": "Rb",
+          "name": "Rubidium",
+          "atomicMass": 85.468,
+          "protons": 37,
+          "electrons": 37,
+          "neutrons": 48,
+          "orbits": 5,
+          "color": "#FF6666"
+        },
+        {
+          "atomicNumber": 55,
+          "symbol": "Cs",
+          "name": "Cesium",
+          "atomicMass": 132.91,
+          "protons": 55,
+          "electrons": 55,
+          "neutrons": 78,
+          "orbits": 6,
+          "color": "#FF6666"
+        },
+        {
+          "atomicNumber": 87,
+          "symbol": "Fr",
+          "name": "Francium",
+          "atomicMass": 223,
+          "protons": 87,
+          "electrons": 87,
+          "neutrons": 136,
+          "orbits": 7,
+          "color": "#FF6666"
+        }
+      ]
+    },
+    {
+      "category": "Alkaline Earth Metal",
+      "color": "#FFB266",
+      "elements": [
+        {
+          "atomicNumber": 4,
+          "symbol": "Be",
+          "name": "Beryllium",
+          "atomicMass": 9.0122,
+          "protons": 4,
+          "electrons": 4,
+          "neutrons": 5,
+          "orbits": 2,
+          "color": "#FFB266"
+        },
+        {
+          "atomicNumber": 12,
+          "symbol": "Mg",
+          "name": "Magnesium",
+          "atomicMass": 24.305,
+          "protons": 12,
+          "electrons": 12,
+          "neutrons": 12,
+          "orbits": 3,
+          "color": "#FFB266"
+        },
+        {
+          "atomicNumber": 20,
+          "symbol": "Ca",
+          "name": "Calcium",
+          "atomicMass": 40.078,
+          "protons": 20,
+          "electrons": 20,
+          "neutrons": 20,
+          "orbits": 4,
+          "color": "#FFB266"
+        },
+        {
+          "atomicNumber": 38,
+          "symbol": "Sr",
+          "name": "Strontium",
+          "atomicMass": 87.62,
+          "protons": 38,
+          "electrons": 38,
+          "neutrons": 50,
+          "orbits": 5,
+          "color": "#FFB266"
+        },
+        {
+          "atomicNumber": 56,
+          "symbol": "Ba",
+          "name": "Barium",
+          "atomicMass": 137.33,
+          "protons": 56,
+          "electrons": 56,
+          "neutrons": 81,
+          "orbits": 6,
+          "color": "#FFB266"
+        },
+        {
+          "atomicNumber": 88,
+          "symbol": "Ra",
+          "name": "Radium",
+          "atomicMass": 226,
+          "protons": 88,
+          "electrons": 88,
+          "neutrons": 138,
+          "orbits": 7,
+          "color": "#FFB266"
+        }
+      ]
+    },
+    {
+      "category": "Metalloid",
+      "color": "#90EE90",
+      "elements": [
+        {
+          "atomicNumber": 5,
+          "symbol": "B",
+          "name": "Boron",
+          "atomicMass": 10.81,
+          "protons": 5,
+          "electrons": 5,
+          "neutrons": 6,
+          "orbits": 2,
+          "color": "#90EE90"
+        },
+        {
+          "atomicNumber": 14,
+          "symbol": "Si",
+          "name": "Silicon",
+          "atomicMass": 28.085,
+          "protons": 14,
+          "electrons": 14,
+          "neutrons": 14,
+          "orbits": 3,
+          "color": "#90EE90"
+        },
+        {
+          "atomicNumber": 32,
+          "symbol": "Ge",
+          "name": "Germanium",
+          "atomicMass": 72.63,
+          "protons": 32,
+          "electrons": 32,
+          "neutrons": 41,
+          "orbits": 4,
+          "color": "#90EE90"
+        },
+        {
+          "atomicNumber": 33,
+          "symbol": "As",
+          "name": "Arsenic",
+          "atomicMass": 74.922,
+          "protons": 33,
+          "electrons": 33,
+          "neutrons": 42,
+          "orbits": 4,
+          "color": "#90EE90"
+        },
+        {
+          "atomicNumber": 51,
+          "symbol": "Sb",
+          "name": "Antimony",
+          "atomicMass": 121.76,
+          "protons": 51,
+          "electrons": 51,
+          "neutrons": 71,
+          "orbits": 5,
+          "color": "#90EE90"
+        },
+        {
+          "atomicNumber": 52,
+          "symbol": "Te",
+          "name": "Tellurium",
+          "atomicMass": 127.6,
+          "protons": 52,
+          "electrons": 52,
+          "neutrons": 76,
+          "orbits": 5,
+          "color": "#90EE90"
+        },
+        {
+          "atomicNumber": 84,
+          "symbol": "Po",
+          "name": "Polonium",
+          "atomicMass": 209,
+          "protons": 84,
+          "electrons": 84,
+          "neutrons": 125,
+          "orbits": 6,
+          "color": "#90EE90"
+        }
+      ]
+    },
+    {
+      "category": "Halogen",
+      "color": "#FFB6C1",
+      "elements": [
+        {
+          "atomicNumber": 9,
+          "symbol": "F",
+          "name": "Fluorine",
+          "atomicMass": 18.998,
+          "protons": 9,
+          "electrons": 9,
+          "neutrons": 10,
+          "orbits": 2,
+          "color": "#FFB6C1"
+        },
+        {
+          "atomicNumber": 17,
+          "symbol": "Cl",
+          "name": "Chlorine",
+          "atomicMass": 35.45,
+          "protons": 17,
+          "electrons": 17,
+          "neutrons": 18,
+          "orbits": 3,
+          "color": "#FFB6C1"
+        },
+        {
+          "atomicNumber": 35,
+          "symbol": "Br",
+          "name": "Bromine",
+          "atomicMass": 79.904,
+          "protons": 35,
+          "electrons": 35,
+          "neutrons": 45,
+          "orbits": 4,
+          "color": "#FFB6C1"
+        },
+        {
+          "atomicNumber": 53,
+          "symbol": "I",
+          "name": "Iodine",
+          "atomicMass": 126.9,
+          "protons": 53,
+          "electrons": 53,
+          "neutrons": 74,
+          "orbits": 5,
+          "color": "#FFB6C1"
+        },
+        {
+          "atomicNumber": 85,
+          "symbol": "At",
+          "name": "Astatine",
+          "atomicMass": 210,
+          "protons": 85,
+          "electrons": 85,
+          "neutrons": 125,
+          "orbits": 6,
+          "color": "#FFB6C1"
+        },
+        {
+          "atomicNumber": 117,
+          "symbol": "Ts",
+          "name": "Tennessine",
+          "atomicMass": 294,
+          "protons": 117,
+          "electrons": 117,
+          "neutrons": 177,
+          "orbits": 7,
+          "color": "#FFB6C1"
+        }
+      ]
+    },
+    {
+      "category": "Post-transition Metal",
+      "color": "#ADD8E6",
+      "elements": [
+        {
+          "atomicNumber": 13,
+          "symbol": "Al",
+          "name": "Aluminium",
+          "atomicMass": 26.982,
+          "protons": 13,
+          "electrons": 13,
+          "neutrons": 14,
+          "orbits": 3,
+          "color": "#ADD8E6"
+        },
+        {
+          "atomicNumber": 31,
+          "symbol": "Ga",
+          "name": "Gallium",
+          "atomicMass": 69.723,
+          "protons": 31,
+          "electrons": 31,
+          "neutrons": 39,
+          "orbits": 4,
+          "color": "#ADD8E6"
+        },
+        {
+          "atomicNumber": 49,
+          "symbol": "In",
+          "name": "Indium",
+          "atomicMass": 114.82,
+          "protons": 49,
+          "electrons": 49,
+          "neutrons": 66,
+          "orbits": 5,
+          "color": "#ADD8E6"
+        },
+        {
+          "atomicNumber": 50,
+          "symbol": "Sn",
+          "name": "Tin",
+          "atomicMass": 118.71,
+          "protons": 50,
+          "electrons": 50,
+          "neutrons": 69,
+          "orbits": 5,
+          "color": "#ADD8E6"
+        },
+        {
+          "atomicNumber": 81,
+          "symbol": "Tl",
+          "name": "Thallium",
+          "atomicMass": 204.38,
+          "protons": 81,
+          "electrons": 81,
+          "neutrons": 123,
+          "orbits": 6,
+          "color": "#ADD8E6"
+        },
+        {
+          "atomicNumber": 82,
+          "symbol": "Pb",
+          "name": "Lead",
+          "atomicMass": 207.2,
+          "protons": 82,
+          "electrons": 82,
+          "neutrons": 125,
+          "orbits": 6,
+          "color": "#ADD8E6"
+        },
+        {
+          "atomicNumber": 83,
+          "symbol": "Bi",
+          "name": "Bismuth",
+          "atomicMass": 208.98,
+          "protons": 83,
+          "electrons": 83,
+          "neutrons": 126,
+          "orbits": 6,
+          "color": "#ADD8E6"
+        },
+        {
+          "atomicNumber": 113,
+          "symbol": "Nh",
+          "name": "Nihonium",
+          "atomicMass": 286,
+          "protons": 113,
+          "electrons": 113,
+          "neutrons": 173,
+          "orbits": 7,
+          "color": "#ADD8E6"
+        },
+        {
+          "atomicNumber": 114,
+          "symbol": "Fl",
+          "name": "Flerovium",
+          "atomicMass": 289,
+          "protons": 114,
+          "electrons": 114,
+          "neutrons": 175,
+          "orbits": 7,
+          "color": "#ADD8E6"
+        },
+        {
+          "atomicNumber": 115,
+          "symbol": "Mc",
+          "name": "Moscovium",
+          "atomicMass": 290,
+          "protons": 115,
+          "electrons": 115,
+          "neutrons": 175,
+          "orbits": 7,
+          "color": "#ADD8E6"
+        },
+        {
+          "atomicNumber": 116,
+          "symbol": "Lv",
+          "name": "Livermorium",
+          "atomicMass": 293,
+          "protons": 116,
+          "electrons": 116,
+          "neutrons": 177,
+          "orbits": 7,
+          "color": "#ADD8E6"
+        }
+      ]
+    },
+    {
+      "category": "Transition Metal",
+      "color": "#FFDEAD",
+      "elements": [
+        {
+          "atomicNumber": 21,
+          "symbol": "Sc",
+          "name": "Scandium",
+          "atomicMass": 44.956,
+          "protons": 21,
+          "electrons": 21,
+          "neutrons": 24,
+          "orbits": 4,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 22,
+          "symbol": "Ti",
+          "name": "Titanium",
+          "atomicMass": 47.867,
+          "protons": 22,
+          "electrons": 22,
+          "neutrons": 26,
+          "orbits": 4,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 23,
+          "symbol": "V",
+          "name": "Vanadium",
+          "atomicMass": 50.942,
+          "protons": 23,
+          "electrons": 23,
+          "neutrons": 28,
+          "orbits": 4,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 24,
+          "symbol": "Cr",
+          "name": "Chromium",
+          "atomicMass": 51.996,
+          "protons": 24,
+          "electrons": 24,
+          "neutrons": 28,
+          "orbits": 4,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 25,
+          "symbol": "Mn",
+          "name": "Manganese",
+          "atomicMass": 54.938,
+          "protons": 25,
+          "electrons": 25,
+          "neutrons": 30,
+          "orbits": 4,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 26,
+          "symbol": "Fe",
+          "name": "Iron",
+          "atomicMass": 55.845,
+          "protons": 26,
+          "electrons": 26,
+          "neutrons": 30,
+          "orbits": 4,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 27,
+          "symbol": "Co",
+          "name": "Cobalt",
+          "atomicMass": 58.933,
+          "protons": 27,
+          "electrons": 27,
+          "neutrons": 32,
+          "orbits": 4,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 28,
+          "symbol": "Ni",
+          "name": "Nickel",
+          "atomicMass": 58.693,
+          "protons": 28,
+          "electrons": 28,
+          "neutrons": 31,
+          "orbits": 4,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 29,
+          "symbol": "Cu",
+          "name": "Copper",
+          "atomicMass": 63.546,
+          "protons": 29,
+          "electrons": 29,
+          "neutrons": 35,
+          "orbits": 4,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 30,
+          "symbol": "Zn",
+          "name": "Zinc",
+          "atomicMass": 65.38,
+          "protons": 30,
+          "electrons": 30,
+          "neutrons": 35,
+          "orbits": 4,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 39,
+          "symbol": "Y",
+          "name": "Yttrium",
+          "atomicMass": 88.906,
+          "protons": 39,
+          "electrons": 39,
+          "neutrons": 50,
+          "orbits": 5,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 40,
+          "symbol": "Zr",
+          "name": "Zirconium",
+          "atomicMass": 91.224,
+          "protons": 40,
+          "electrons": 40,
+          "neutrons": 51,
+          "orbits": 5,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 41,
+          "symbol": "Nb",
+          "name": "Niobium",
+          "atomicMass": 92.906,
+          "protons": 41,
+          "electrons": 41,
+          "neutrons": 52,
+          "orbits": 5,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 42,
+          "symbol": "Mo",
+          "name": "Molybdenum",
+          "atomicMass": 95.95,
+          "protons": 42,
+          "electrons": 42,
+          "neutrons": 54,
+          "orbits": 5,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 43,
+          "symbol": "Tc",
+          "name": "Technetium",
+          "atomicMass": 98,
+          "protons": 43,
+          "electrons": 43,
+          "neutrons": 55,
+          "orbits": 5,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 44,
+          "symbol": "Ru",
+          "name": "Ruthenium",
+          "atomicMass": 101.07,
+          "protons": 44,
+          "electrons": 44,
+          "neutrons": 57,
+          "orbits": 5,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 45,
+          "symbol": "Rh",
+          "name": "Rhodium",
+          "atomicMass": 102.91,
+          "protons": 45,
+          "electrons": 45,
+          "neutrons": 58,
+          "orbits": 5,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 46,
+          "symbol": "Pd",
+          "name": "Palladium",
+          "atomicMass": 106.42,
+          "protons": 46,
+          "electrons": 46,
+          "neutrons": 60,
+          "orbits": 5,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 47,
+          "symbol": "Ag",
+          "name": "Silver",
+          "atomicMass": 107.87,
+          "protons": 47,
+          "electrons": 47,
+          "neutrons": 61,
+          "orbits": 5,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 48,
+          "symbol": "Cd",
+          "name": "Cadmium",
+          "atomicMass": 112.41,
+          "protons": 48,
+          "electrons": 48,
+          "neutrons": 64,
+          "orbits": 5,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 72,
+          "symbol": "Hf",
+          "name": "Hafnium",
+          "atomicMass": 178.49,
+          "protons": 72,
+          "electrons": 72,
+          "neutrons": 106,
+          "orbits": 6,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 73,
+          "symbol": "Ta",
+          "name": "Tantalum",
+          "atomicMass": 180.95,
+          "protons": 73,
+          "electrons": 73,
+          "neutrons": 108,
+          "orbits": 6,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 74,
+          "symbol": "W",
+          "name": "Tungsten",
+          "atomicMass": 183.84,
+          "protons": 74,
+          "electrons": 74,
+          "neutrons": 110,
+          "orbits": 6,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 75,
+          "symbol": "Re",
+          "name": "Rhenium",
+          "atomicMass": 186.21,
+          "protons": 75,
+          "electrons": 75,
+          "neutrons": 111,
+          "orbits": 6,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 76,
+          "symbol": "Os",
+          "name": "Osmium",
+          "atomicMass": 190.23,
+          "protons": 76,
+          "electrons": 76,
+          "neutrons": 114,
+          "orbits": 6,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 77,
+          "symbol": "Ir",
+          "name": "Iridium",
+          "atomicMass": 192.22,
+          "protons": 77,
+          "electrons": 77,
+          "neutrons": 115,
+          "orbits": 6,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 78,
+          "symbol": "Pt",
+          "name": "Platinum",
+          "atomicMass": 195.08,
+          "protons": 78,
+          "electrons": 78,
+          "neutrons": 117,
+          "orbits": 6,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 79,
+          "symbol": "Au",
+          "name": "Gold",
+          "atomicMass": 196.97,
+          "protons": 79,
+          "electrons": 79,
+          "neutrons": 118,
+          "orbits": 6,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 80,
+          "symbol": "Hg",
+          "name": "Mercury",
+          "atomicMass": 200.59,
+          "protons": 80,
+          "electrons": 80,
+          "neutrons": 121,
+          "orbits": 6,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 104,
+          "symbol": "Rf",
+          "name": "Rutherfordium",
+          "atomicMass": 267,
+          "protons": 104,
+          "electrons": 104,
+          "neutrons": 163,
+          "orbits": 7,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 105,
+          "symbol": "Db",
+          "name": "Dubnium",
+          "atomicMass": 270,
+          "protons": 105,
+          "electrons": 105,
+          "neutrons": 165,
+          "orbits": 7,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 106,
+          "symbol": "Sg",
+          "name": "Seaborgium",
+          "atomicMass": 271,
+          "protons": 106,
+          "electrons": 106,
+          "neutrons": 165,
+          "orbits": 7,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 107,
+          "symbol": "Bh",
+          "name": "Bohrium",
+          "atomicMass": 270,
+          "protons": 107,
+          "electrons": 107,
+          "neutrons": 163,
+          "orbits": 7,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 108,
+          "symbol": "Hs",
+          "name": "Hassium",
+          "atomicMass": 277,
+          "protons": 108,
+          "electrons": 108,
+          "neutrons": 169,
+          "orbits": 7,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 109,
+          "symbol": "Mt",
+          "name": "Meitnerium",
+          "atomicMass": 278,
+          "protons": 109,
+          "electrons": 109,
+          "neutrons": 169,
+          "orbits": 7,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 110,
+          "symbol": "Ds",
+          "name": "Darmstadtium",
+          "atomicMass": 281,
+          "protons": 110,
+          "electrons": 110,
+          "neutrons": 171,
+          "orbits": 7,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 111,
+          "symbol": "Rg",
+          "name": "Roentgenium",
+          "atomicMass": 282,
+          "protons": 111,
+          "electrons": 111,
+          "neutrons": 171,
+          "orbits": 7,
+          "color": "#FFDEAD"
+        },
+        {
+          "atomicNumber": 112,
+          "symbol": "Cn",
+          "name": "Copernicium",
+          "atomicMass": 285,
+          "protons": 112,
+          "electrons": 112,
+          "neutrons": 173,
+          "orbits": 7,
+          "color": "#FFDEAD"
+        }
+      ]
+    },
+    {
+      "category": "Lanthanide",
+      "color": "#DDA0DD",
+      "elements": [
+        {
+          "atomicNumber": 57,
+          "symbol": "La",
+          "name": "Lanthanum",
+          "atomicMass": 138.91,
+          "protons": 57,
+          "electrons": 57,
+          "neutrons": 82,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 58,
+          "symbol": "Ce",
+          "name": "Cerium",
+          "atomicMass": 140.12,
+          "protons": 58,
+          "electrons": 58,
+          "neutrons": 82,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 59,
+          "symbol": "Pr",
+          "name": "Praseodymium",
+          "atomicMass": 140.91,
+          "protons": 59,
+          "electrons": 59,
+          "neutrons": 82,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 60,
+          "symbol": "Nd",
+          "name": "Neodymium",
+          "atomicMass": 144.24,
+          "protons": 60,
+          "electrons": 60,
+          "neutrons": 84,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 61,
+          "symbol": "Pm",
+          "name": "Promethium",
+          "atomicMass": 145,
+          "protons": 61,
+          "electrons": 61,
+          "neutrons": 84,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 62,
+          "symbol": "Sm",
+          "name": "Samarium",
+          "atomicMass": 150.36,
+          "protons": 62,
+          "electrons": 62,
+          "neutrons": 88,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 63,
+          "symbol": "Eu",
+          "name": "Europium",
+          "atomicMass": 151.96,
+          "protons": 63,
+          "electrons": 63,
+          "neutrons": 89,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 64,
+          "symbol": "Gd",
+          "name": "Gadolinium",
+          "atomicMass": 157.25,
+          "protons": 64,
+          "electrons": 64,
+          "neutrons": 93,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 65,
+          "symbol": "Tb",
+          "name": "Terbium",
+          "atomicMass": 158.93,
+          "protons": 65,
+          "electrons": 65,
+          "neutrons": 94,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 66,
+          "symbol": "Dy",
+          "name": "Dysprosium",
+          "atomicMass": 162.5,
+          "protons": 66,
+          "electrons": 66,
+          "neutrons": 96,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 67,
+          "symbol": "Ho",
+          "name": "Holmium",
+          "atomicMass": 164.93,
+          "protons": 67,
+          "electrons": 67,
+          "neutrons": 98,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 68,
+          "symbol": "Er",
+          "name": "Erbium",
+          "atomicMass": 167.26,
+          "protons": 68,
+          "electrons": 68,
+          "neutrons": 99,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 69,
+          "symbol": "Tm",
+          "name": "Thulium",
+          "atomicMass": 168.93,
+          "protons": 69,
+          "electrons": 69,
+          "neutrons": 100,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 70,
+          "symbol": "Yb",
+          "name": "Ytterbium",
+          "atomicMass": 173.05,
+          "protons": 70,
+          "electrons": 70,
+          "neutrons": 103,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        },
+        {
+          "atomicNumber": 71,
+          "symbol": "Lu",
+          "name": "Lutetium",
+          "atomicMass": 174.97,
+          "protons": 71,
+          "electrons": 71,
+          "neutrons": 104,
+          "orbits": 6,
+          "color": "#DDA0DD"
+        }
+      ]
+    },
+    {
+      "category": "Actinide",
+      "color": "#FF69B4",
+      "elements": [
+        {
+          "atomicNumber": 89,
+          "symbol": "Ac",
+          "name": "Actinium",
+          "atomicMass": 227,
+          "protons": 89,
+          "electrons": 89,
+          "neutrons": 138,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 90,
+          "symbol": "Th",
+          "name": "Thorium",
+          "atomicMass": 232.04,
+          "protons": 90,
+          "electrons": 90,
+          "neutrons": 142,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 91,
+          "symbol": "Pa",
+          "name": "Protactinium",
+          "atomicMass": 231.04,
+          "protons": 91,
+          "electrons": 91,
+          "neutrons": 140,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 92,
+          "symbol": "U",
+          "name": "Uranium",
+          "atomicMass": 238.03,
+          "protons": 92,
+          "electrons": 92,
+          "neutrons": 146,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 93,
+          "symbol": "Np",
+          "name": "Neptunium",
+          "atomicMass": 237,
+          "protons": 93,
+          "electrons": 93,
+          "neutrons": 144,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 94,
+          "symbol": "Pu",
+          "name": "Plutonium",
+          "atomicMass": 244,
+          "protons": 94,
+          "electrons": 94,
+          "neutrons": 150,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 95,
+          "symbol": "Am",
+          "name": "Americium",
+          "atomicMass": 243,
+          "protons": 95,
+          "electrons": 95,
+          "neutrons": 148,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 96,
+          "symbol": "Cm",
+          "name": "Curium",
+          "atomicMass": 247,
+          "protons": 96,
+          "electrons": 96,
+          "neutrons": 151,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 97,
+          "symbol": "Bk",
+          "name": "Berkelium",
+          "atomicMass": 247,
+          "protons": 97,
+          "electrons": 97,
+          "neutrons": 150,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 98,
+          "symbol": "Cf",
+          "name": "Californium",
+          "atomicMass": 251,
+          "protons": 98,
+          "electrons": 98,
+          "neutrons": 153,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 99,
+          "symbol": "Es",
+          "name": "Einsteinium",
+          "atomicMass": 252,
+          "protons": 99,
+          "electrons": 99,
+          "neutrons": 153,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 100,
+          "symbol": "Fm",
+          "name": "Fermium",
+          "atomicMass": 257,
+          "protons": 100,
+          "electrons": 100,
+          "neutrons": 157,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 101,
+          "symbol": "Md",
+          "name": "Mendelevium",
+          "atomicMass": 258,
+          "protons": 101,
+          "electrons": 101,
+          "neutrons": 157,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 102,
+          "symbol": "No",
+          "name": "Nobelium",
+          "atomicMass": 259,
+          "protons": 102,
+          "electrons": 102,
+          "neutrons": 157,
+          "orbits": 7,
+          "color": "#FF69B4"
+        },
+        {
+          "atomicNumber": 103,
+          "symbol": "Lr",
+          "name": "Lawrencium",
+          "atomicMass": 262,
+          "protons": 103,
+          "electrons": 103,
+          "neutrons": 159,
+          "orbits": 7,
+          "color": "#FF69B4"
+        }
+      ]
+    }
+  ]
+}
